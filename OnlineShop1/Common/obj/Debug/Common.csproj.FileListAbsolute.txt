@@ -1,0 +1,5 @@
+C:\Users\ADMIN\source\repos\OnlineShop1\Common\bin\Debug\Common.dll
+C:\Users\ADMIN\source\repos\OnlineShop1\Common\bin\Debug\Common.pdb
+C:\Users\ADMIN\source\repos\OnlineShop1\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\OnlineShop1\Common\obj\Debug\Common.dll
+C:\Users\ADMIN\source\repos\OnlineShop1\Common\obj\Debug\Common.pdb
